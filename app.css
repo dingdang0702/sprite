@@ -1,0 +1,20 @@
+.sprite1{ background:url("app.png") top left no-repeat; display: inline-block; }
+.sprite1_r5_c13{ width:28px; height:32px; background-position:-10px -10px; }
+.sprite1_r5_c10{ width:33px; height:32px; background-position:-10px -52px; }
+.sprite1_r2_c9{ width:33px; height:32px; background-position:-10px -94px; }
+.sprite1_r5_c7{ width:32px; height:32px; background-position:-10px -136px; }
+.sprite1_r2_c7{ width:32px; height:32px; background-position:-10px -178px; }
+.sprite1_r5_c5{ width:33px; height:32px; background-position:-10px -220px; }
+.sprite1_r2_c5{ width:33px; height:32px; background-position:-10px -262px; }
+.sprite1_r5_c2{ width:30px; height:32px; background-position:-10px -304px; }
+.sprite1_r2_c2{ width:32px; height:32px; background-position:-10px -346px; }
+.sprite1_r2_c13{ width:28px; height:30px; background-position:-10px -388px; }
+*{ margin:0; padding: 0;}
+.cont{ width: 800px; height: 200px; border:1px solid red;}
+ul{ list-style:none; width: 260px;}
+ul li{ float: left; padding: 5px 10px;}
+.head{ width: 260px;}
+.head h1{ float: left; font-size: 14px; line-height: 28px; height: 28px;}
+.head span{ float: right; font-size: 12px; line-height: 28px; display: inline-block; height: 28px;}
+.head span a{ color: #333; text-decoration: none;}
+.clear{ clear: both;}
